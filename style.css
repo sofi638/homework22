@@ -1,0 +1,31 @@
+body {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 100vh;
+  gap: 20px;
+}
+
+.btn1 {
+  background-color: green;
+  border-radius: 5px;
+  padding: 50px;
+}
+
+.btn2 {
+  background-color: blue;
+  border-radius: 5px;
+  padding: 50px;
+}
+
+.btn3 {
+  background-color: red;
+  border-radius: 5px;
+  padding: 50px;
+}
+
+.btn4 {
+  background-color: yellow;
+  border-radius: 5px;
+  padding: 50px;
+}
